@@ -4,6 +4,8 @@ To develop a video game application with Unity, must be portable to Android.
 ### Play now
 This game can be ran on a browser that supports WebGL. You can play the game [here](http://alexsikorski.net/bounce.html).
 
+![Bounce gameplay](https://alexsikorski.net/img/dissertation/bounce-gameplay.jpg)
+
 ### Prerequisites
 * Unity
 * C#
